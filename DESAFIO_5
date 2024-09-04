@@ -1,0 +1,7 @@
+Liga o interruptor número 1 e deixa ligado por uns 10 minutinhos.
+Desliga o 1 e liga o 2.
+ir lá na sala das lâmpadas.
+
+Lâmpada acesa: É o interruptor 2 (foi ligada por último).
+Lâmpada apagada, mas quente: É o interruptor 1 (foi ligada e desligada).
+Lâmpada apagada e fria: É o interruptor 3 (nunca foi acionada nele).
